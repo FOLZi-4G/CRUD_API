@@ -1,0 +1,78 @@
+
+{
+success: true,
+message: "get data band success",
+data: [
+{
+	bandId:"1",
+	name_band : "Dance Gavin Dance",
+	description: "Dance Gavin Dance adalah band rock Amerika yang berasal dari Sacramento, California, yang dibentuk pada tahun 2005. Band ini memiliki 5 anggotaWill Swan (gitaris utama), Matthew Mingus(drummer), Jon Mess (vokalis), Tilian Pearson (vokalis), Andrew Wells (gitaris ritme). Diskografi pertama Dance Gavin Dance yaitu adalah sebuah extended play (EP) debut mereka, "Whatever I Say Is Royal Ocean", pada tahun 2006 dan kemudian menandatangani kontrak dengan Rise Records. Sampai sekarang mereka sudah merilis sepuluh album studio, tiga album live, satu album mini, 45 single, 26 video musik, satu album remaster, dan 9 album instrumental. Mereka telah mencapai empat album top-dua puluh di AS, termasuk satu top 10, dan telah menjadi salah satu grup musik paling populer dalam mengkombinasi genre post-hardcore dan math rock.",
+	genre: "Math Rock, Post Hardcore",
+	image: "https://pbs.twimg.com/profile_images/1505634852304949248/UZOThiTg_400x400.jpg"
+},
+{
+	bandId:"2",
+	name_band : "toe",
+	description: "toe adalah band asal Jepang yang terkenal dengan gaya musik instrumental post-rock dan math rock mereka. Mereka dibentuk pada tahun 2000 yang terdiri dari 4 anggota yaitu Kashikura Takashi (drummer), Mino Takaaki (gitar), Yamane Satoshi (bass gitar), and Yamazaki Hirokazu (gitar). Band ini telah merilis berbagai album yang diakui secara internasional. Musik mereka seringkali dikarakterisasi oleh penggunaan ritme yang kompleks, melodi yang indah, dan kemampuan untuk menggabungkan emosi dalam musik tanpa lirik. Toe telah memberikan pengaruh besar pada genre musik post-rock dan math rock di Jepang dan di seluruh dunia. Mereka sering dianggap sebagai salah satu band pionir dalam genre ini.",
+	genre: "Math rock",
+	image: "https://f4.bcbits.com/img/0004501051_10.jpg"
+},
+{
+	bandId:"3",
+	name_band : "Polyphia",
+	description: "Polyphia adalah band rock progresif yang kebanyakan instrumental dan berbasis di Plano, Texas. Band ini dibentuk pada tahun 2010. Anggota grup terdiri dari gitaris Tim Henson (gitar), Scott LePage (gitar), Clay Gober (bass gitar), dan Clay Aeschliman (drummer). Mereka pertama kali menjadi viral di YouTube pada tahun 2013 dengan lagu mereka yang berjudul Impassion. Album debut mereka pada tahun 2015. Suara Polyphia dikenal karena menggabungkan bagian gitar yang virtuoso dengan gaya musik lainnya. Awalnya berakar pada nada yang lebih berfokus pada metal dalam rilisan awal mereka, musik band ini berkembang menjadi suara rok progresif di produksi selanjutnya, menggabungkan musik elektronik dan hip hop. Polyphia telah merilis empat album studio, dua EP, dan banyak single. Album keempat mereka, Remember That You Will Die, dirilis pada Oktober 2022, adalah yang kedua yang masuk dalam chart, debut di nomor 33 di Billboard 200.",
+	genre: "Progressive Rock, Math Rock",
+	image: "https://guitar.com/wp-content/uploads/2022/10/Polyphia-Credit-Press-HERO@2560x1625.jpg"
+},
+{
+	bandId:"4",
+	name_band : "Elephant Gym",
+	description: "Elephant Gym adalah sebuah band asal Taiwan yang musiknya telah mendapatkan banyak pujian sejak awal pembentukannya. Band ini dikenal dengan gaya musik math rock mereka yang unik. Band ini terdiri dari tiga anggota, yaitu Tu Chia-Chin (gitar), Tell Chang (bass), dan Tif Chang (drummer). Musik mereka mencakup berbagai pengaruh yang menciptakan suara yang khas dan eksperimental dalam genre math rock. Hal ini dapat dilihat dari penggunaan pola ritme yang kompleks, permainan bass yang mencolok, dan melodi gitar yang eksperimental. Musik mereka seringkali menggabungkan elemen-elemen dari genre math rock dengan sentuhan indie dan pop. Mereka menciptakan suara yang unik dan mengundang pendengar untuk menjelajahi tekstur musik yang kompleks.",
+	genre: "Math rock",
+	image: "https://s9.limitedrun.com/images/1508394/v600______Elephant_Gym_2021____Band_Photo_____for_screen-01.jpg"
+},
+{
+	bandId:"5",
+	name_band : "Fox Capture Plan",
+	description: "Fox Capture Plan adalah band jazz-rock kontemporer yang dibentuk pada tahun 2011 yang berpusat di Jepang,Tokyo. Band ini terdiri dari tiga anggota yaitu Ryo Kishimoto (keyboard), Hidehiro Kawai (bass), dan Tsukasa Inoue (drummer). Band ini dibentuk untuk mempresentasikan konsep modern jazz-rock dan telah merilis beberapa album sepanjang karier mereka. Fox Capture Plan dikenal dengan penggunaan melodi yang kuat dan improvisasi jazz yang kaya, yang mereka padukan dengan elemen-elemen post-rock yang atmosferik. Mereka juga sering memasukkan elemen musik elektronik dalam karyanya, menciptakan suara yang eksperimental dan modern.",
+	genre: "Fusion Jazz",
+	image: "https://cdns-images.dzcdn.net/images/artist/ec2970f337ac4f31399095baf8773a14/500x500.jpg"
+},
+{
+	bandId:"6",
+	name_band : "CHON",
+	description: "CHON adalah band instrumental asal San Diego, California, Amerika Serikat. Mereka terkenal dengan pendekatan eksperimental mereka terhadap musik math rock dan progressive rock yang menggabungkan elemen-elemen dari math rock, progressive rock, jazz, dan fusion. Band ini didirikan pada tahun 2008 dan telah mendapatkan pengakuan di kalangan pecinta musik berkat permainan musik yang berbakat dan unik mereka. Band ini terdiri dari empat anggota Mario Camarena (gitar), Erick Hansel (gitar, vokalis), Esiah Camarena (bass gitar), Nathan Camarena (drummer). Mereka mulai merilis demo melalui internet pada tahun 2008. Pada tahun 2010, band ini mulai hiatus singkat, tetapi bersatu kembali pada tahun 2011 untuk merekam dua lagu baru, O.G. dan Breathe. Mereka kembali pada tahun 2013 dengan rilis EP debut mereka yang berjudul Newborn Sun. Pada Desember 2014, CHON menandatangani kontrak dengan label rekaman Sumerian Records dan mengumumkan bahwa mereka akan merilis album debut full-length mereka pada tahun berikutnya.",
+	genre: "Progressive Rock, Math Rock, Folk",
+	image: "https://asset-a.grid.id/crop/0x0:0x0/360x240/photo/2018/11/03/2438712862.jpg"
+},
+{
+	bandId:"7",
+	name_band : "Of Monsters and Men",
+	description: "Of Monsters and Men adalah band indie folk/indie pop yang berasal dari Keflavík, Islandia. Band ini dibentuk di Reykjavik, Islandia pada tahun 2009. Band ini terdiri dari 5 anggota yang bernama Nanna Bryndís Hilmarsdóttir (gitar, vokalis), Ragnar Þórhallsson (gitar, vokalis), Brynjar Leifsson (gitar, melodika), Kristján Páll Kristjánsson (bass gitar), dan Arnar Rósenkranz Hilmarsson (drummer). Album debut mereka, My Head Is an Animal, dirilis pada tahun 2011 dan mencapai posisi No. 1 di beberapa negara termasuk Australia, Islandia, Irlandia, dan juga di tangga lagu Rock dan Alternatif AS. Of Monsters and Men dikenal dengan gaya musik indie folk yang menggabungkan unsur-unsur folk tradisional dengan melodi pop yang kuat. Mereka sering memadukan vokal harmonis antara Nanna Bryndís Hilmarsdóttir dan Ragnar Þórhallsson, menciptakan suara yang khas. Lirik mereka sering mengusung tema alam, kehidupan, dan perasaan. Band ini dikenal di seluruh dunia dan telah menghasilkan beberapa hit besar, termasuk lagu Little Talks.",
+	genre: "Folk",
+	image: "https://i1.sndcdn.com/avatars-000622009200-dasdrt-t500x500.jpg"
+},
+{
+	bandId:"8",
+	name_band : "Aphex Twin",
+	description: "Aphex Twin, yang bernama asli Richard David James (lahir 18 Agustus 1971), adalah seorang musisi, komposer, dan DJ berkebangsaan Irlandia-Britania. Ia dikenal dengan karya-karyanya yang unik dalam genre musik elektronik seperti techno, ambient, dan jungle. Beberapa jurnalis dari berbagai publikasi seperti Mixmag, The New York Times, NME, Fact, Clash, dan The Guardian menganggap James sebagai salah satu artis paling berpengaruh dan penting dalam musik elektronik kontemporer. Richard David James tumbuh besar di Cornwall dan mulai berkarier sebagai DJ di pesta-pesta gratis dan klub di daerah tersebut pada akhir 1980-an. EP debutnya, Analogue Bubblebath, dirilis pada tahun 1991 dan mendapatkan pengikut awal. Ia kemudian mulai tampil di seluruh Inggris dan Eropa. Pada tahun 1992, ia merilis album debutnya Selected Ambient Works 85–92 yang mendapatkan pujian luas dari kritikus dan pendengar. Dalam artikel lain, disebutkan bahwa Richard D. James, atau Aphex Twin, adalah salah satu nama terkemuka dalam dunia musik elektronik. Ia dikenal telah mendorong batasan dalam genre tersebut dan dianggap sebagai pelopor intelligent dance music (IDM). Meskipun ia telah menjadi sensasi global, Richard D. James dikenal sebagai seseorang yang pemalu dan introvert.",
+	genre: "Breakcore, Electronic, Experimental",
+	image: "https://thevinylfactory.com/wp-content/uploads/2018/07/VinylFactory-AphexTwin-B1.jpg"
+},
+{
+	bandId:"9",
+	name_band : "Shook",
+	description: "Jasper Wijnands, yang dikenal sebagai Shook, adalah musisi, produser, dan pianis berasal dari Amsterdam, Belanda. Ia mendapatkan pengakuan karena remixnya yang luar biasa dari artis terkenal selama tahap awal kariernya, menggabungkan disco dan funk dengan teknik produksi elektronik modern. Pada tahun 2013, ia merilis album debutnya, Shook, yang menampilkan suara uniknya yang menggabungkan genre dan mendorongnya ke pujian internasional. Menurut kata-katanya sendiri, karyanya terinspirasi oleh kekuatan abadi seperti cinta, perubahan, dan seni dan berasal dari synth-pop tahun 70-an, awal 80-an, disco, funk hingga anime dan soundtrack futuristik. Musiknya telah digunakan di beberapa media film dan iklan seperti pada film seri Better Call Saul yang telah menjadi klasik instan bagi penononton. Wijnands juga berkolaborasi dengan merek synthesizer terkenal, menunjukkan keahliannya dalam menggabungkan instrumen live dengan elemen elektronik.",
+	genre: "Piano, Electronic",
+	image: "https://i1.sndcdn.com/avatars-HRbqm8FqgGa14SxL-ABz2vA-t500x500.jpg"
+},
+{
+	bandId:"10",
+	name_band : "IV of Spades",
+	description: "IV of Spades adalah band rock Filipina yang berasal dari Metro Manila. Band ini didirikan pada tahun 2014 oleh Allan Mitchell Silonga, ayah dari Blaster Silonga, dengan tujuan membentuk band untuk putranya. Anggota lainnya direkrut berdasarkan rekomendasi dari Allan. Sebagian besar anggota band ini adalah anak dari musisi. Blaster adalah putra dari Allan Silonga, anggota band Kindred Garden dan Daddy's Home. Zild adalah putra dari Franklin Benitez, drummer dari Hungry Young Poets dan Barbie's Cradle. Badjao adalah putra dari Chuck de Castro, anggota Makatha & Posivity Band. Band ini terdiri dari Zild Benitez (gitar, vokalis), Blaster Silonga (gitar, vokalis), dan Badjao de Castro (drummer). Unique Salonga pernah menjadi vokalis dan gitaris ritme band ini hingga ia meninggalkan band pada tahun 2018. Band ini pertama kali mendapatkan perhatian dengan rilis single keempat mereka, "Mundo". Gaya musik mereka digambarkan sebagai "pop funk" dan funk rock oleh media lokal. IV of Spades merilis single pertama mereka Ilaw sa Daan di bawah Warner Music Philippines. Pada tahun 2018, mereka merilis single keempat mereka, Mundo, yang mendapatkan banyak perhatian dan menjadi salah satu video dengan tontonan tertinggi di YouTube.",
+	genre: "Alternative/Indie",
+	image: "https://upload.wikimedia.org/wikipedia/en/c/cb/IV_of_Spades.jpg"
+}
+
+]
+}
